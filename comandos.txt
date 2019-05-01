@@ -1,0 +1,34 @@
+  848  npm init -y
+  849  npm i typescript -D
+  850  sudo npm i -g npm
+  851  npm i typescript -D
+  852  npx typescript --init
+  853  npm i express
+  854  npx tsc
+  855  npm i @types/express -D
+  856  npx tsc
+  857  node dist/index.js
+  858  npm i nodemon -D
+  859  npx tsc
+  860  node dist/index.js
+  861  npx tsc
+  862  node dist/index.js
+  863  npm i ts-node -D
+  864  npm run dev
+  865  npm i morgan
+  866  npm i @types/morgan -D
+  867  npm run dev
+  868  npm i mysql2
+  869  npm i @types/mysql2 -D
+  870  npm i types/mysql2 -D
+  871  npm run dev
+  872* cd ~/Downloads
+  873* echo "deb https://dl.bintray.com/getinsomnia/Insomnia /" \\n    | sudo tee -a /etc/apt/sources.list.d/insomnia.list
+  874* wget --quiet -O - https://insomnia.rest/keys/debian-public.key.asc \\n    | sudo apt-key add -
+  875* sudo apt-get update
+  876* sudo apt-get install insomnia
+  877  npm run build
+  878  node dist/index.js
+  879  ls
+
+https://www.youtube.com/watch?v=4clEduk6OQM&feature=em-uploademail
